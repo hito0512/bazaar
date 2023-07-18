@@ -24,11 +24,13 @@
     "zuoez02/siyuan-plugin-devtool",
     "zuoez02/siyuan-plugin-noto-color-emoji",
     "zuoez02/siyuan-plugin-twitter-emoji",
+    "zuoez02/siyuan-plugin-background-grid",
     "leolee9086/themeEditor",
     "leolee9086/quickSnippets",
     "Zuoqiu-Yingyi/siyuan-plugin-open-api",
     "Zuoqiu-Yingyi/siyuan-plugin-webview",
     "Zuoqiu-Yingyi/siyuan-plugin-custom-fonts",
+    "Zuoqiu-Yingyi/siyuan-plugin-custom-block",
     "zxhd863943427/siyuan-plugin-flash-enhance",
     "leolee9086/browserTab",
     "leolee9086/headingIndex",
@@ -43,8 +45,10 @@
     "mdzz2048/siyuan-plugin-weread",
     "zxhd863943427/siyuan-plugin-pomodoro",
     "zxhd863943427/siyuan-plugin-pdf-annotate-view-enhance",
+    "zxhd863943427/siyuan-plugin-workflow",
     "HowcanoeWang/siyuan-plugin-background-cover",
     "WingDr/siyuan-plugin-citation",
-    "etchnight/siyuanPlugin-networkCustom"
+    "etchnight/siyuanPlugin-networkCustom",
+    "choyy/simple-search"
   ]
 }
